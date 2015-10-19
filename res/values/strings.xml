@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">calculator</string>
+    <string name="numTest">-1</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvResult">欢迎使用计算器O(∩_∩)O</string>
+
+</resources>
